@@ -1,4 +1,4 @@
-package KdvTutarıHesaplayanProgram;
+package KdvTutariHesaplayanProgram;
 import java.util.Scanner;
 
 public class KdvHesaplama {
